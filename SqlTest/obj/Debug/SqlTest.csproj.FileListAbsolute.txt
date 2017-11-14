@@ -1,0 +1,5 @@
+C:\Users\VK3001(H)\Desktop\SqlTest\SqlTest\bin\SqlTest.dll
+C:\Users\VK3001(H)\Desktop\SqlTest\SqlTest\bin\SqlTest.pdb
+C:\Users\VK3001(H)\Desktop\SqlTest\SqlTest\obj\Debug\SqlTest.csprojResolveAssemblyReference.cache
+C:\Users\VK3001(H)\Desktop\SqlTest\SqlTest\obj\Debug\SqlTest.dll
+C:\Users\VK3001(H)\Desktop\SqlTest\SqlTest\obj\Debug\SqlTest.pdb

@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.title{
+    color: blueviolet;
+    text-align: center;
+}
+.author{
+        text-align: right;
+        color: blue;
+        margin-right: 200px;
+}
+.content{
+    width: 1200px;
+    margin: 0 auto;
+}
