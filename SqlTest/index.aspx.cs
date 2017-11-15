@@ -36,7 +36,7 @@ namespace SqlTest
             sqlcon.Open();
             if (Convert.ToInt32(sqlcom.ExecuteScalar()) > 0)
             {
-                Response.Write("<script>alert('登录成功！')</script> ");
+                Response.Write("<script>alert('Successful！')</script> ");
             }
             else
             {
@@ -47,6 +47,10 @@ namespace SqlTest
         protected void Join_click(object sender, EventArgs e)
         {
             Server.Transfer("sign up.aspx");
+        }
+        protected void Update_click(object sender, EventArgs e)
+        {
+            Server.Transfer("update.aspx");
         }
     }
 }

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Update</title>
+    <link href="css/index.css" rel="stylesheet">
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+</head>
+
+<body>
+    <h1 class="title">SQL注入测试密码修改页面</h1>
+    <h2 class="author">网络工程15-1 惠阳</h2>
+    <div class="content">
+        <form action="" method="">
+            <div class="form-group">
+                <label for="exampleInputEmail1">Username</label>
+                <input type="text" class="form-control"  onblur="LookUp(this)">
+            </div>
+            <div class="form-group">
+                <label for="exampleInputPassword1">OldPassword</label>
+                <input type="password" class="form-control"  onblur="LookUp(this)">
+            </div>
+            <div class="form-group">
+                <label for="exampleInputPassword1">NewPassword</label>
+                <p id="show" class="bg-warning text-warning" style="float:right;font-size:180%;"></p>
+                <input type="password" class="form-control psd" onblur="checksign()">
+            </div>
+            <button type="submit" class="btn btn-default">Update</button>
+        </form>
+    </div>
+    </body>
+
+
+</html>

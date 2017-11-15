@@ -28,6 +28,7 @@
             </div>
            <asp:Button  type="submit" Cssclass="btn btn-default" runat="server" onclick="Login_click" Text="Login"/> 
              <asp:Button ID="Button1"  type="submit" Cssclass="btn btn-default" onclick="Join_click" runat="server"  Text="Join Us"/> 
+                         <asp:Button ID="Button2"  type="submit" Cssclass="btn btn-default" onclick="Update_click" runat="server"  Text="Update"/> 
             <div class="form-group">
                 <label style="color: red">输入情况即时输出：</label>
                 <textarea class="form-control" rows="3" id="output" ></textarea>

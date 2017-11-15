@@ -11,13 +11,12 @@
     <link href="css/bootstrap.css" rel="stylesheet" />
     <link href="css/bootstrap.min.css" rel="stylesheet" />
     <script src="js/sign up.js"></script>
-
 </head>
 <body runat="server">
     <h1 class="title">SQL注入测试注册页面</h1>
     <h2 class="author">网络工程15-1 惠阳</h2>
     <div class="content">
-        <form action="" method="post" runat="server">
+        <form action="sign up.aspx" method="post" runat="server">
             <div class="form-group">
                 <label for="exampleInputEmail1">Username</label>
                 <asp:TextBox  CssClass="form-control" runat="server" ID="Username"></asp:TextBox>
