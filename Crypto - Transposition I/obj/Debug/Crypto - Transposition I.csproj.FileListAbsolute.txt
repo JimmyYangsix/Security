@@ -1,0 +1,6 @@
+C:\Users\VK3001(H)\Desktop\Crypto - Transposition I\Crypto - Transposition I\bin\Debug\Crypto - Transposition I.exe.config
+C:\Users\VK3001(H)\Desktop\Crypto - Transposition I\Crypto - Transposition I\bin\Debug\Crypto - Transposition I.exe
+C:\Users\VK3001(H)\Desktop\Crypto - Transposition I\Crypto - Transposition I\bin\Debug\Crypto - Transposition I.pdb
+C:\Users\VK3001(H)\Desktop\Crypto - Transposition I\Crypto - Transposition I\obj\Debug\Crypto - Transposition I.csprojResolveAssemblyReference.cache
+C:\Users\VK3001(H)\Desktop\Crypto - Transposition I\Crypto - Transposition I\obj\Debug\Crypto - Transposition I.exe
+C:\Users\VK3001(H)\Desktop\Crypto - Transposition I\Crypto - Transposition I\obj\Debug\Crypto - Transposition I.pdb
