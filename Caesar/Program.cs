@@ -62,6 +62,7 @@ namespace Caesar
                 {
                     for (int j = 0; j < count; j++)
                     {
+                        
                         encrypation(input[j], key);
                     }
                 }
@@ -106,7 +107,7 @@ namespace Caesar
                 //一般加密方法
                 else
                 {
-                    chararry[i] = (char)(chararry[i] + key);
+                    chararry[i] = (char)(chararry[i]);
                 }
             }
             StringBuilder sb = new StringBuilder();
@@ -139,7 +140,7 @@ namespace Caesar
                 //一般解密密方法
                 else
                 {
-                    chararry[i] = (char)(chararry[i] - key);
+                    chararry[i] = (char)(chararry[i]);
                 }
             }
             StringBuilder sb = new StringBuilder();
