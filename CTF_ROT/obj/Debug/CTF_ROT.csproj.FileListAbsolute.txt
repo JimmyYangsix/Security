@@ -1,0 +1,6 @@
+C:\Users\VK3001(H)\Desktop\CTF_ROT\CTF_ROT\bin\Debug\CTF_ROT.exe.config
+C:\Users\VK3001(H)\Desktop\CTF_ROT\CTF_ROT\bin\Debug\CTF_ROT.exe
+C:\Users\VK3001(H)\Desktop\CTF_ROT\CTF_ROT\bin\Debug\CTF_ROT.pdb
+C:\Users\VK3001(H)\Desktop\CTF_ROT\CTF_ROT\obj\Debug\CTF_ROT.csprojResolveAssemblyReference.cache
+C:\Users\VK3001(H)\Desktop\CTF_ROT\CTF_ROT\obj\Debug\CTF_ROT.exe
+C:\Users\VK3001(H)\Desktop\CTF_ROT\CTF_ROT\obj\Debug\CTF_ROT.pdb
